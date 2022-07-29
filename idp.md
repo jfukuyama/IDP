@@ -5,19 +5,9 @@ The purpose of an IDP is to prepare you for your future career. It is important 
 
 The most effective way to begin this process is to define your career interest(s), based on your strengths and the jobs that you might want in different employment sectors (e.g. academia, industry, non-profit, government, or other research-related areas). If you find it difficult to identify your career interests, you will find workshops and seminars offered at UW and affiliated institutions that can inform you about these occupations. There are also a number of useful resources on the web:
 
-[UW Bioscience Careers](http://courses.washington.edu/phd/)
-
-[UW Future Faculty website](http://www.uwmedicine.org/research/events/future-faculty)
-
-[FHCRC Office of Scientific Career Development](http://www.fredhutch.org/en/education-training/oscd.html)
-
-[FHCRC Student/Postdoc Advisory Committee](http://www.fredhutch.org/en/education-training/spac.html)
-
 [National Postdoctoral Association](http://www.nationalpostdoc.org/) has information for graduate students and postdocs, and a [list of core competencies for successful scientists](http://nationalpostdoc.org/publications-5/competencies)
 
 [The AAAS has developed an exceptional tool for IDPs in the sciences](http://myidp.sciencecareers.org)
-
-Video libraries of professional development workshops can be found at the [Institute for Translational Health Sciences](https://www.iths.org) and the [National Institutes of Health](https://www.training.nih.gov/for_trainees_outside_the_nih)
 
 ## Crafting your IDP
 Think about where you want to be in your career. Once you have an idea of your career goals, you will need to consider what skills are needed to be successful in that career and how you will develop those skills and gain needed experience. You should involve your mentor and committee members in helping you define what you need and to help you address those needs. This template includes prompts that will guide you in: 1) acquiring discipline specific knowledge and research skills; 2) gaining skills in written and oral communications, including teaching; 3) development of professionalism, management, and leadership skills.
